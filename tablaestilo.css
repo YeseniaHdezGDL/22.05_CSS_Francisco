@@ -1,0 +1,33 @@
+
+table {
+    width: 500px;
+    font: normal 13px arial;
+    text-align: center;
+    border-collapse: collapse;
+    border-color: red;
+}
+
+table th {
+    font: bold 15px arial;
+    background-color: aquamarine;
+}
+
+.fila_impar {
+    background-color: cadetblue;
+}
+
+.fila_par {
+    background-color: cornflowerblue;
+}
+
+.fila_resaltada {
+    color: yellow;
+    background-color: brown;
+    font: 20px arial;
+}
+
+
+
+
+
+
